@@ -24,7 +24,7 @@
 链接：https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-class Solution {
+class Solution06_1 {
     public int[] reversePrint(ListNode head) {
         int size = 0;
         ListNode cur = head;

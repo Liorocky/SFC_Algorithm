@@ -25,7 +25,7 @@ nums 的每个元素都将在 [-9999, 9999]之间。
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 
-class Solution {
+class Solution704_1 {
     public int search(int[] nums, int target) {
         return searchTrue(nums, 0, nums.length - 1, target);
     }

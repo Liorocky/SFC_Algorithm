@@ -19,7 +19,7 @@
 链接：https://leetcode-cn.com/problems/reverse-linked-list
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-class Solution {
+class Solution206_1 {
     public ListNode reverseList(ListNode head) {
         ListNode pre = null;
         ListNode cur = head;
